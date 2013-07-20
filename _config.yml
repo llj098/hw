@@ -1,0 +1,13 @@
+markdown: rdiscount
+pygments: true
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+title : Hacker Weekly
+production_url : http://llj098.github.io/hw
+description: "Weekly hacker news"
+author :
+  name : Lijin liu
+  github : llj098
+  twitter : llj098
+  email: llj098@gmail.com
