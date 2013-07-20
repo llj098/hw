@@ -5,6 +5,7 @@ rdiscount:
   extensions: [smart]
 title : Hacker Weekly
 production_url : http://llj098.github.io/hw
+baseurl : http://llj098.github.io/hw
 description: "Weekly hacker news"
 author :
   name : Lijin liu
