@@ -1,0 +1,418 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0'>
+<channel>
+<generator>
+clj-rss
+</generator>
+<link>
+http://llj098.github.io/hw
+</link>
+<title>
+Hacker Weekly
+</title>
+<description>
+weekly hacker news
+</description>
+<item>
+<link>
+http://www.theguardian.com/world/2013/jul/31/nsa-top-secret-program-online-data
+</link>
+<title>
+XKeyscore: NSA program collects 'nearly everything a user does on the internet'
+</title>
+</item>
+<item>
+<link>
+http://kenkeiter.com/skeuocard/
+</link>
+<title>
+Skeuocard
+</title>
+</item>
+<item>
+<link>
+http://seriouspony.com/blog/2013/7/24/your-app-makes-me-fat
+</link>
+<title>
+Kathy Sierra: Your app makes me fat
+</title>
+</item>
+<item>
+<link>
+http://stackoverflow.com/questions/4456438/how-can-i-pass-the-string-null-through-wsdl-soap-from-as3-to-coldfusion-web?rq=1
+</link>
+<title>
+We have an employee whose last name is Null. He kills our employee lookup (2012)
+</title>
+</item>
+<item>
+<link>
+http://www.wired.com/underwire/2013/08/xkcd-time-comic/
+</link>
+<title>
+Creator of xkcd Reveals Secret Backstory of His Epic 3,990-Panel Comic
+</title>
+</item>
+<item>
+<link>
+http://layervault.tumblr.com/post/56891876898/psd-rb
+</link>
+<title>
+Psd.rb
+</title>
+</item>
+<item>
+<link>
+http://worrydream.com/dbx/
+</link>
+<title>
+The Future of Programming
+</title>
+</item>
+<item>
+<link>
+https://medium.com/something-like-falling/2e7d13e54724
+</link>
+<title>
+Pressure cookers, backpacks, and quinoa, oh my
+</title>
+</item>
+<item>
+<link>
+http://rt.com/news/snowden-entry-papers-russia-902/
+</link>
+<title>
+Snowden granted 1-year asylum in Russia, leaves airport
+</title>
+</item>
+<item>
+<link>
+http://www.mailpile.is/
+</link>
+<title>
+Mailpile: Let’s take email back
+</title>
+</item>
+<item>
+<link>
+http://techcrunch.com/2013/07/31/fastest-iphone-camera/
+</link>
+<title>
+Scientific Breakthrough Lets SnappyCam App Take 20 Full-Res Photos Per Second
+</title>
+</item>
+<item>
+<link>
+http://spritesmods.com/?art=hddhack
+</link>
+<title>
+Hard drive hack provides root access, even after reinstall
+</title>
+</item>
+<item>
+<link>
+http://delyan.me/08-01-2013/samsung-agency-is-buying-off-stackoverflow-users/
+</link>
+<title>
+Samsung agency is buying off StackOverflow users 
+</title>
+</item>
+<item>
+<link>
+http://priceonomics.com/volvo-gave-away-the-most-important-design-they/
+</link>
+<title>
+Volvo Gave Away the Most Important Design They Ever Patented
+</title>
+</item>
+<item>
+<link>
+http://coreos.com/
+</link>
+<title>
+Show HN: CoreOS, a Linux distro for containers
+</title>
+</item>
+<item>
+<link>
+http://placeit.breezi.com/productshots/
+</link>
+<title>
+Quickly generate product screenshots in realistic environments
+</title>
+</item>
+<item>
+<link>
+http://www.theatlanticwire.com/national/2013/08/government-knocking-doors-because-google-searches/67864/
+</link>
+<title>
+Google Pressure Cookers and Backpacks, Get a Visit from the Feds
+</title>
+</item>
+<item>
+<link>
+http://www.bloomberg.com/news/2013-07-28/heart-surgery-in-india-for-1-583-costs-106-385-in-u-s-.html
+</link>
+<title>
+Heart Surgery in India for $1,583 Costs $106,385 in U.S.
+</title>
+</item>
+<item>
+<link>
+https://github.com/golang/groupcache#readme
+</link>
+<title>
+Groupcache: an alternative to memcached, written in Go
+</title>
+</item>
+<item>
+<link>
+http://tarensk.tumblr.com/post/56881327662/mit-report-is-a-whitewash-my-statement-in-response
+</link>
+<title>
+MIT Report is a whitewash. My Statement in Response
+</title>
+</item>
+<item>
+<link>
+http://www.forbes.com/sites/andygreenberg/2013/07/31/nsa-director-heckled-at-conference-as-he-asks-for-security-communitys-understanding/
+</link>
+<title>
+NSA director heckled on stage at Black Hat security conference
+</title>
+</item>
+<item>
+<link>
+http://x.myles.io/19BPrtG
+</link>
+<title>
+Two Stories of Passive Income Excess
+</title>
+</item>
+<item>
+<link>
+http://tox.im/
+</link>
+<title>
+Tox: secure messaging for everyone
+</title>
+</item>
+<item>
+<link>
+http://www.wired.com/threatlevel/2013/07/google-neutrality/
+</link>
+<title>
+Now That It’s in the Broadband Game, Google Flip-Flops on Network Neutrality
+</title>
+</item>
+<item>
+<link>
+http://uscodebeta.house.gov/download/download.shtml
+</link>
+<title>
+The entire US Code is now online in XML
+</title>
+</item>
+<item>
+<link>
+item?id=6145261
+</link>
+<title>
+Ask HN: I'm a chronic procrastinator – how do I break it?
+</title>
+</item>
+<item>
+<link>
+http://mobile.nytimes.com/2013/07/27/nyregion/in-lieu-of-money-toyota-donates-efficiency-to-new-york-charity.html?pagewanted=1&_r=1&
+</link>
+<title>
+In Lieu of Money, Toyota Donates Efficiency to New York Charity
+</title>
+</item>
+<item>
+<link>
+http://news.cnet.com/8301-13578_3-57596791-38/fbi-pressures-internet-providers-to-install-surveillance-software
+</link>
+<title>
+FBI pressures Internet providers to install surveillance software
+</title>
+</item>
+<item>
+<link>
+http://www.pcworld.com/article/2045461/us-patent-office-rejects-claims-of-apple-pinch-to-zoom-patent.html
+</link>
+<title>
+US patent office rejects claims of Apple 'pinch to zoom' patent
+</title>
+</item>
+<item>
+<link>
+http://missingm.co/2013/07/identical-droplets-in-the-digitalocean-regenerate-your-ubuntu-ssh-host-keys-now/
+</link>
+<title>
+Identical Droplets in the DigitalOcean: Regenerate your Ubuntu SSH Host Keys now
+</title>
+</item>
+<item>
+<link>
+http://www.slate.com/articles/business/moneybox/2013/07/how_one_weird_trick_conquered_the_internet_what_happens_when_you_click_on.single.html
+</link>
+<title>
+How 'One Weird Trick' Conquered The Internet
+</title>
+</item>
+<item>
+<link>
+https://quip.com/blog/introducing-quip
+</link>
+<title>
+Introducing Quip
+</title>
+</item>
+<item>
+<link>
+http://konklone.com/post/the-door-to-the-fisa-court
+</link>
+<title>
+The Door To The FISA Court Doesn't Even Have A Sign On It
+</title>
+</item>
+<item>
+<link>
+http://angular-tips.com/blog/2013/08/why-does-angular-dot-js-rock/
+</link>
+<title>
+Why does Angular.js rock?
+</title>
+</item>
+<item>
+<link>
+http://opensignal.com/reports/fragmentation-2013/
+</link>
+<title>
+Android Fragmentation Visualized
+</title>
+</item>
+<item>
+<link>
+http://bzg.fr/learn-emacs-lisp-in-15-minutes.html
+</link>
+<title>
+Learn Emacs Lisp in 15 minutes
+</title>
+</item>
+<item>
+<link>
+http://kennethreitz.org/why-i-left-medium/
+</link>
+<title>
+Why I Left Medium
+</title>
+</item>
+<item>
+<link>
+http://www.pbs.org/newshour/bb/government_programs/july-dec13/whistleblowers_08-01.html
+</link>
+<title>
+NSA Collects 'Word for Word' Every Domestic Communication, Says Former Analyst
+</title>
+</item>
+<item>
+<link>
+http://ilyabirman.net/projects/forebruary/
+</link>
+<title>
+Forebruary, an endless wall calendar
+</title>
+</item>
+<item>
+<link>
+item?id=6132983
+</link>
+<title>
+Ask HN: I might be going to prison soon, how to save my one-man SaaS startup?
+</title>
+</item>
+<item>
+<link>
+http://www.nytimes.com/2013/07/29/us/politics/momentum-builds-against-nsa-surveillance.html
+</link>
+<title>
+Momentum Builds Against N.S.A. Surveillance
+</title>
+</item>
+<item>
+<link>
+http://arstechnica.com/information-technology/2013/07/why-youtube-buffers-the-secret-deals-that-make-and-break-online-video/
+</link>
+<title>
+Why YouTube buffers: The secret deals that make and break online video
+</title>
+</item>
+<item>
+<link>
+http://www.pachamama.org/blog/models-of-sustainability-sweden-runs-out-of-garbage
+</link>
+<title>
+Sweden Runs Out of Garbage With Waste-to-Energy
+</title>
+</item>
+<item>
+<link>
+https://www.openrightsgroup.org/blog/2013/sleepwalking-into-censorship
+</link>
+<title>
+Sleepwalking into censorship
+</title>
+</item>
+<item>
+<link>
+http://www.vanityfair.com/business/2013/09/michael-lewis-goldman-sachs-programmer
+</link>
+<title>
+Did Goldman Overstep in Criminally Charging Its Ex-Programmer?
+</title>
+</item>
+<item>
+<link>
+https://bitcoin.co.th/trading-suspended-due-to-bank-of-thailand-advisement/?bettertitle
+</link>
+<title>
+Bitcoin ruled illegal in Thailand
+</title>
+</item>
+<item>
+<link>
+http://jayporter.com/dispatches/observations-from-a-tipless-restaurant-part-2-money-and-the-law/
+</link>
+<title>
+Observations from a Tipless Restaurant
+</title>
+</item>
+<item>
+<link>
+http://web.mit.edu/newsoffice/2013/mit-releases-swartz-report-0730.html
+</link>
+<title>
+MIT releases report on its actions in the Aaron Swartz case
+</title>
+</item>
+<item>
+<link>
+http://arstechnica.com/security/2013/08/gone-in-30-seconds-new-attack-plucks-secrets-from-https-protected-pages/
+</link>
+<title>
+New attack plucks secrets from HTTPS-protected pages
+</title>
+</item>
+<item>
+<link>
+http://www.theguardian.com/world/2013/jul/30/bradley-manning-trial-verdict-live
+</link>
+<title>
+Manning not guilty of aiding the enemy, but convicted of multiple other counts
+</title>
+</item>
+</channel>
+</rss>
+
